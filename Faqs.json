@@ -1,0 +1,205 @@
+[
+  {
+    "id": 1,
+    "category": "shipping",
+    "question": "How long does shipping take?",
+    "answer": "Standard shipping takes 3-5 business days. Express shipping takes 1-2 business days. Orders placed after 2 PM are processed the next business day.",
+    "keywords": "delivery, deliver, arrive, days, dispatch, how many days"
+  },
+  {
+    "id": 2,
+    "category": "shipping",
+    "question": "How much does shipping cost?",
+    "answer": "Standard shipping costs $4.99 and express shipping costs $12.99. Orders over $50 qualify for free standard shipping.",
+    "keywords": "delivery fee, free shipping, shipping fee, charge, price, express"
+  },
+  {
+    "id": 3,
+    "category": "shipping",
+    "question": "Do you ship internationally?",
+    "answer": "Yes, we ship to over 40 countries. International delivery takes 7-14 business days, and customs duties or import taxes are paid by the recipient.",
+    "keywords": "international, overseas, abroad, worldwide, country, customs"
+  },
+  {
+    "id": 4,
+    "category": "shipping",
+    "question": "Can I change my shipping address after placing an order?",
+    "answer": "You can change the address within 1 hour of placing your order from the Orders page. After that the order enters processing and the address can no longer be changed.",
+    "keywords": "change address, edit address, wrong address, update address, delivery address"
+  },
+  {
+    "id": 5,
+    "category": "shipping",
+    "question": "Can I ship my order to a PO box?",
+    "answer": "Yes, standard shipping works for PO boxes. Express shipping requires a street address because couriers cannot deliver to PO boxes.",
+    "keywords": "po box, post office box, delivery address"
+  },
+  {
+    "id": 6,
+    "category": "shipping",
+    "question": "What happens if I am not home when my package arrives?",
+    "answer": "The courier will leave a delivery notice and try again the next business day. After two failed attempts, the package is held at a local depot for 7 days.",
+    "keywords": "missed delivery, not home, absent, redelivery, failed delivery"
+  },
+  {
+    "id": 7,
+    "category": "returns",
+    "question": "What is your return policy?",
+    "answer": "You can return most items within 30 days of delivery if they are unused and in their original packaging. Sale items are final sale unless they arrive damaged.",
+    "keywords": "refund policy, return window, money back, send back"
+  },
+  {
+    "id": 8,
+    "category": "returns",
+    "question": "How do I return an item?",
+    "answer": "Go to Orders, select the item, and click 'Start a return' to print a prepaid shipping label. Pack the item securely and drop it off at any listed courier location.",
+    "keywords": "send back, return label, return process, refund request"
+  },
+  {
+    "id": 9,
+    "category": "returns",
+    "question": "How long does it take to get my refund?",
+    "answer": "Refunds are issued within 5-7 business days after we receive and inspect your return. It may take a few more days to appear on your bank statement.",
+    "keywords": "refund, money back, reimbursement, refund time"
+  },
+  {
+    "id": 10,
+    "category": "returns",
+    "question": "Can I exchange an item for a different size or color?",
+    "answer": "Yes. Start a return and choose 'Exchange' to pick a new size or color. If the new item costs more, you will be charged the difference.",
+    "keywords": "exchange, swap, replace, wrong size, size change"
+  },
+  {
+    "id": 11,
+    "category": "returns",
+    "question": "What should I do if my item arrived damaged or defective?",
+    "answer": "We are sorry about that. Contact support within 7 days of delivery with your order number and a photo of the damage, and we will send a free replacement or a full refund.",
+    "keywords": "broken, damaged, defective, faulty, wrong item, replacement"
+  },
+  {
+    "id": 12,
+    "category": "returns",
+    "question": "Who pays for return shipping?",
+    "answer": "Return shipping is free for damaged, defective, or incorrect items. For other returns, a $4.99 shipping fee is deducted from your refund.",
+    "keywords": "return fee, return cost, return postage"
+  },
+  {
+    "id": 13,
+    "category": "payments",
+    "question": "What payment methods do you accept?",
+    "answer": "We accept Visa, Mastercard, American Express, PayPal, Apple Pay, Google Pay, and store gift cards.",
+    "keywords": "paypal, visa, mastercard, credit card, debit card, apple pay, google pay, gift card, pay, payment method, accept, take, use"
+  },
+  {
+    "id": 14,
+    "category": "payments",
+    "question": "Is it safe to enter my credit card details on your website?",
+    "answer": "Yes. All payments are encrypted with SSL and processed by a PCI-compliant payment provider. We never store your full card number.",
+    "keywords": "secure, security, safe, encryption, ssl, card details"
+  },
+  {
+    "id": 15,
+    "category": "payments",
+    "question": "Why was my payment declined?",
+    "answer": "Common reasons are incorrect card details, insufficient funds, or your bank blocking the transaction. Check your details and try again, or contact your bank.",
+    "keywords": "declined, failed, rejected, card error, payment failed"
+  },
+  {
+    "id": 16,
+    "category": "payments",
+    "question": "Can I use a promo code or discount coupon?",
+    "answer": "Yes. Enter your code in the 'Promo code' box at checkout and click Apply. Only one code can be used per order and codes cannot be applied after the order is placed.",
+    "keywords": "promo, coupon, discount, voucher, code, offer"
+  },
+  {
+    "id": 17,
+    "category": "payments",
+    "question": "Do you offer cash on delivery?",
+    "answer": "Cash on delivery is available for orders under $200 in selected cities. A $2 handling fee applies and you must pay the exact amount to the courier.",
+    "keywords": "cod, cash, pay on delivery"
+  },
+  {
+    "id": 18,
+    "category": "payments",
+    "question": "I was charged twice for my order. What should I do?",
+    "answer": "A duplicate charge is usually a temporary authorization hold that disappears in 3-5 business days. If both charges are still there after that, contact support with your order number.",
+    "keywords": "double charge, duplicate charge, charged twice, billed twice, overcharged"
+  },
+  {
+    "id": 19,
+    "category": "tracking",
+    "question": "How can I track my order?",
+    "answer": "Once your order ships, we email you a tracking number. You can also log in and open Orders, then click 'Track package' to see live updates.",
+    "keywords": "track, tracking number, where is my order, where is my package, parcel, shipment status, order status"
+  },
+  {
+    "id": 20,
+    "category": "tracking",
+    "question": "I have not received a shipping confirmation email. Where is my order?",
+    "answer": "Orders can take up to 24 hours to be processed before the shipping email is sent. Check your spam folder, and if it has been longer than 48 hours, contact support.",
+    "keywords": "confirmation email, no email, missing email, order status"
+  },
+  {
+    "id": 21,
+    "category": "tracking",
+    "question": "My tracking number is not working. What should I do?",
+    "answer": "Tracking numbers can take 24-48 hours to show updates after the label is created. If it still does not work after 2 days, contact support.",
+    "keywords": "tracking error, tracking not working, invalid tracking, tracking number"
+  },
+  {
+    "id": 22,
+    "category": "tracking",
+    "question": "My order says delivered but I did not receive it.",
+    "answer": "First check with neighbors and around your property, since couriers sometimes leave packages in safe spots. If it does not turn up within 48 hours, contact support and we will open an investigation.",
+    "keywords": "missing package, lost parcel, delivered not received, stolen package, lost order"
+  },
+  {
+    "id": 23,
+    "category": "tracking",
+    "question": "Can I cancel my order?",
+    "answer": "You can cancel from the Orders page while the status is 'Processing'. Once an order has shipped it cannot be cancelled, but you can return it after delivery.",
+    "keywords": "cancel, cancellation, stop order, cancel order"
+  },
+  {
+    "id": 24,
+    "category": "account",
+    "question": "How do I create an account?",
+    "answer": "Click 'Sign up' at the top right of the page, enter your name, email, and a password, then confirm your email address using the link we send you.",
+    "keywords": "sign up, register, signup, new account, join"
+  },
+  {
+    "id": 25,
+    "category": "account",
+    "question": "I forgot my password. How do I reset it?",
+    "answer": "Click 'Log in', then 'Forgot password', and enter your email. We will send a reset link that is valid for 30 minutes.",
+    "keywords": "reset password, forgot password, password recovery, login, log in"
+  },
+  {
+    "id": 26,
+    "category": "account",
+    "question": "How do I change my email address or phone number?",
+    "answer": "Log in, go to Account Settings, then Profile, and update your details. We will send a verification code to confirm any email change.",
+    "keywords": "update email, update phone, profile, edit details, change email, change number"
+  },
+  {
+    "id": 27,
+    "category": "account",
+    "question": "How do I delete my account?",
+    "answer": "Go to Account Settings, then Privacy, and click 'Delete account'. Your personal data is removed within 30 days. This cannot be undone.",
+    "keywords": "remove account, close account, deactivate, erase data, delete profile"
+  },
+  {
+    "id": 28,
+    "category": "account",
+    "question": "Why is my account locked?",
+    "answer": "Accounts are locked for 15 minutes after 5 failed login attempts to keep them secure. Wait and try again, or reset your password to unlock it right away.",
+    "keywords": "locked, cant login, login problem, too many attempts, suspended, blocked, log in"
+  },
+  {
+    "id": 29,
+    "category": "account",
+    "question": "Do I need an account to place an order?",
+    "answer": "No, you can check out as a guest. Creating an account lets you track orders, save addresses, and check out faster next time.",
+    "keywords": "guest checkout, without account, without registering, no account"
+  }
+]
